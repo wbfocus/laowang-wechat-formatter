@@ -33,7 +33,7 @@ export function AppHeader({
             className="w-10 h-10 p-1 border-2 border-(--neo-ink) shadow-[3px_3px_0_0_var(--neo-ink)] bg-white"
           />
           <h1 className="text-lg sm:text-2xl font-black tracking-tight uppercase text-(--neo-on-header)">
-            TypeZen · AI 公众号排版助手
+            老汪洞察 · AI 公众号排版助手
           </h1>
         </div>
 
