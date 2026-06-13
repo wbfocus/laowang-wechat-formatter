@@ -1,3 +1,5 @@
+// 【老汪专属配置】：强制动态渲染网页。告诉系统“绝对不要缓存这个网页的旧版本”，确保以后每次改完代码推送到服务器，所有访客打开网址都能瞬间看到最新内容。
+export const dynamic = 'force-dynamic';
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";

@@ -32,7 +32,7 @@ export function AppFooter() {
             target="_blank"
             rel="noopener noreferrer"
             className="neo-button neo-button-ghost p-1"
-            title="GitHub 仓库 · Star 支持"
+            title="去我们的主站点逛逛"
           >
             <Star className="w-4 h-4" />
           </a>
