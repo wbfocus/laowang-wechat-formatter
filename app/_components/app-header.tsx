@@ -57,10 +57,10 @@ export function AppHeader({
             target="_blank"
             rel="noopener noreferrer"
             className="neo-button neo-button-ghost px-3 py-2 flex items-center gap-1.5"
-            title="GitHub 仓库 · Star 支持"
+            title="主站有更多好玩的"
           >
             <Star className="w-4 h-4" />
-            <span className="text-xs font-black hidden sm:inline">Star</span>
+            <span className="text-xs font-black hidden sm:inline">探索主站</span>
           </a>
           <button
             onClick={onCopy}
