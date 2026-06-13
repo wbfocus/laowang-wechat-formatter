@@ -106,7 +106,7 @@ export function AboutSection() {
                onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                className="neo-button neo-button-primary px-8 py-3 text-lg"
              >
-               立即开始排版
+               马上开始排版
              </button>
           </div>
         </div>
